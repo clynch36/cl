@@ -1,7 +1,7 @@
 #' Percent Change Calculation
 #'
-#' @param num1
-#' @param num2
+#' @param num1 first number
+#' @param num2 second number
 #'
 #' @return
 #' @export
