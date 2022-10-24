@@ -12,7 +12,7 @@ pct_chg(num1, num2)
 \item{num2}{second number}
 }
 \value{
-
+The percent of change over time
 }
 \description{
 Percent Change Calculation
